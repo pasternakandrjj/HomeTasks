@@ -1,0 +1,7 @@
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Delegates\Delegates\obj\Debug\Delegates.pdb
