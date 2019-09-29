@@ -1,0 +1,7 @@
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LINQ\obj\Debug\LINQ.pdb

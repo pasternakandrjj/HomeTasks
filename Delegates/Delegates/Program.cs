@@ -14,11 +14,23 @@ namespace Delegates
         List<string> listnumber = new List<string>();
         public void Push(string message)
         {
-            listnumber.Add(message);
-            Console.WriteLine("Added to AlphaNumbericCollector : " + message);
-
+            if (HasDigits(message))
+            {
+                listnumber.Add(message);
+                Console.WriteLine("Added to AlphaNumbericCollector : " + message);
+            }
             //foreach (var item in listnumber)
             //    Console.WriteLine(item);
+        }
+        public static bool HasDigits(string s)
+        {
+            bool flag = false;
+            for (int i = 0; i < s.Length; ++i)
+            {
+                if (char.IsDigit(s[i]) == true)
+                    flag = true;
+            }
+            return flag;
         }
     }
     public class StringCollector
@@ -26,11 +38,21 @@ namespace Delegates
         List<string> liststring = new List<string>();
         public void Push(string message)
         {
-            liststring.Add(message);
-            Console.WriteLine("Added to StringCollector : " + message);
-
-            //foreach (var item in liststring)
-            //    Console.WriteLine(item);
+            if (!HasDigits(message))
+            { 
+                liststring.Add(message);
+                Console.WriteLine("Added to StringCollector : " + message);
+            } 
+        }
+        public static bool HasDigits(string s)
+        {
+            bool flag = false;
+            for (int i = 0; i < s.Length; ++i)
+            {
+                if (char.IsDigit(s[i]) == true)
+                    flag = true;
+            }
+            return flag;
         }
     }
 
@@ -47,23 +69,10 @@ namespace Delegates
             {
                 Console.WriteLine("Enter the string :");
                 parsed = Console.ReadLine();
-                if (HasDigits(parsed))
-                    add = alphaNumbericCollector.Push;
-                else
-                    add = stringCollector.Push;
-                add(parsed);
-
+                add = alphaNumbericCollector.Push;
+                add += stringCollector.Push;
+                add(parsed); 
             }
-        }
-        static bool HasDigits(string s)
-        {
-            bool flag = false;
-            for (int i = 0; i < s.Length; ++i)
-            {
-                if (char.IsDigit(s[i]) == true)
-                    flag = true;
-            }
-            return flag;
         }
     }
 }

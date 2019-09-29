@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{81C3701C-6B5D-430D-9DE1-E1157D0E862A}</ProjectGuid>
+    <ProjectGuid>{B523913F-1D3D-4310-9E8C-F715A8B79DF8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Delegates</RootNamespace>
-    <AssemblyName>Delegates</AssemblyName>
+    <RootNamespace>LINQ</RootNamespace>
+    <AssemblyName>LINQ</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="WithEvents.cs" />
-    <None Include="Program.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <None Include="SpecialDelegates.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
