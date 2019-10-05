@@ -5,6 +5,7 @@ C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LIN
 C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
 C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LINQ\obj\Debug\LINQ.exe
 C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\LINQ\LINQ\obj\Debug\LINQ.pdb
+<<<<<<< HEAD
 C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\LINQ\LINQ\bin\Debug\LINQ.exe.config
 C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\LINQ\LINQ\bin\Debug\LINQ.exe
 C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\LINQ\LINQ\bin\Debug\LINQ.pdb
@@ -12,3 +13,5 @@ C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTask
 C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
 C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\LINQ\LINQ\obj\Debug\LINQ.exe
 C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\LINQ\LINQ\obj\Debug\LINQ.pdb
+=======
+>>>>>>> c43447cce5ee4aeafa748e7da39481894b9705c9
