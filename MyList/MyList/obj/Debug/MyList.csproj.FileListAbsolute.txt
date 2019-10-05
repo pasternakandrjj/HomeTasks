@@ -1,0 +1,14 @@
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\MyList\MyList\bin\Debug\MyList.exe.config
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\MyList\MyList\bin\Debug\MyList.exe
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\MyList\MyList\bin\Debug\MyList.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\MyList\MyList\obj\Debug\MyList.csprojAssemblyReference.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\MyList\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\MyList\MyList\obj\Debug\MyList.exe
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\MyList\MyList\obj\Debug\MyList.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\MyList\MyList\bin\Debug\MyList.exe.config
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\MyList\MyList\bin\Debug\MyList.exe
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\MyList\MyList\bin\Debug\MyList.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\MyList\MyList\obj\Debug\MyList.csprojAssemblyReference.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\MyList\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\MyList\MyList\obj\Debug\MyList.exe
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\MyList\MyList\obj\Debug\MyList.pdb
