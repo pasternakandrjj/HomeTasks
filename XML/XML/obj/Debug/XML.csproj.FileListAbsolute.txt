@@ -1,0 +1,7 @@
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\XML\XML\bin\Debug\XML.exe.config
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\XML\XML\bin\Debug\XML.exe
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\XML\XML\bin\Debug\XML.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\XML\XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\XML\XML\obj\Debug\XML.exe
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\XML\XML\obj\Debug\XML.pdb

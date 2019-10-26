@@ -1,0 +1,48 @@
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.deps.json
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.runtimeconfig.json
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.runtimeconfig.dev.json
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.dll
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.csprojAssemblyReference.cache
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.RazorAssemblyInfo.cache
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.RazorAssemblyInfo.cs
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.AssemblyInfoInputs.cache
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.AssemblyInfo.cs
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.RazorTargetAssemblyInfo.cache
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.dll
+C:\Users\paste\OneDrive\Рабочий стол\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.deps.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.runtimeconfig.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.runtimeconfig.dev.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.dll
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.csprojAssemblyReference.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.RazorAssemblyInfo.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.RazorAssemblyInfo.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.AssemblyInfoInputs.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.AssemblyInfo.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.RazorTargetAssemblyInfo.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.dll
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.deps.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.runtimeconfig.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.runtimeconfig.dev.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.dll
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\bin\Debug\netcoreapp2.2\Web.Api.Demo.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.csprojAssemblyReference.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.RazorAssemblyInfo.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.RazorAssemblyInfo.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.AssemblyInfoInputs.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.AssemblyInfo.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.RazorTargetAssemblyInfo.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.dll
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\course\HomeTasks\Web.Api\Web.Api.Demo\obj\Debug\netcoreapp2.2\Web.Api.Demo.pdb
