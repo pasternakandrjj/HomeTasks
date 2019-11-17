@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student firstName="Oleksii" lastName="Kachmar">
+    <BirthDate>1983-07-31T00:00:00</BirthDate>
+    <Email>31.07.1983</Email>
+    <PhoneNumber>380672528114</PhoneNumber>
+    <ExtraData>
+      <ExtraData>
+        <ExtraDataElement name="SkypeId">oles_kash</ExtraDataElement>
+        <ExtraDataElement name="Marriage">yes</ExtraDataElement>
+      </ExtraData>
+    </ExtraData>
+  </Student>
+  <Student firstName="Oleksii" lastName="Kachmar">
+    <BirthDate>1983-07-31T00:00:00</BirthDate>
+    <Email>31.07.1983</Email>
+    <PhoneNumber>380672528114</PhoneNumber>
+    <ExtraData>
+      <ExtraData>
+        <ExtraDataElement name="SkypeId">oles_kash</ExtraDataElement>
+        <ExtraDataElement name="Marriage">yes</ExtraDataElement>
+      </ExtraData>
+    </ExtraData>
+  </Student>
+  <Student firstName="Maria" lastName="Pukha">
+    <BirthDate>1985-07-31T00:00:00</BirthDate>
+    <Email>31.07.1985</Email>
+    <PhoneNumber>380672528118</PhoneNumber>
+    <ExtraData>
+      <ExtraData>
+        <ExtraDataElement name="SkypeId">prosto_maria</ExtraDataElement>
+        <ExtraDataElement name="Marriage">yes</ExtraDataElement>
+      </ExtraData>
+    </ExtraData>
+  </Student>
+  <Student firstName="Maria" lastName="Pukha">
+    <BirthDate>1985-07-31T00:00:00</BirthDate>
+    <Email>31.07.1985</Email>
+    <PhoneNumber>380672528118</PhoneNumber>
+    <ExtraData>
+      <ExtraData>
+        <ExtraDataElement name="SkypeId">prosto_maria</ExtraDataElement>
+        <ExtraDataElement name="Marriage">yes</ExtraDataElement>
+      </ExtraData>
+    </ExtraData>
+  </Student>
+  <Student firstName="Name" lastName="LastName">
+    <BirthDate>1111-01-01T00:00:00</BirthDate>
+    <Email>01.01.1111</Email>
+    <PhoneNumber>911</PhoneNumber>
+    <ExtraData>
+      <ExtraData>
+        <ExtraDataElement name="testkey">testval</ExtraDataElement>
+      </ExtraData>
+    </ExtraData>
+  </Student>
+</Students>

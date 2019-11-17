@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Asp.Net_Core_project.Models.Course>
+
+@{
+    ViewData["Title"] = "GetCourse";
+}
+
+<h2>GetCourse</h2>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>StartDate</th>
+        <th>StartDate</th>
+        <th>EndDate</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PassCredits)
+            </td>
+
+            @if (User.IsInRole("Admin"))
+            {
+                <td>
+                    @Html.ActionLink("Add", "AddCourse", new { id = item.Id })
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditCourse", new { id = item.Id })
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "DeleteCourse", new { id = item.Id })
+                </td>
+            }
+        </tr>
+    }
+</table>

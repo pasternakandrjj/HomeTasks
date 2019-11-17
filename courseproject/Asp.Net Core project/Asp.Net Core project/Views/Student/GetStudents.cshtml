@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Asp.Net_Core_project.Models.Student>
+
+@{
+    ViewData["Title"] = "GetStudents";
+}
+
+<h2>GetStudents</h2>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>BirthDate</th>
+        <th>Email</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirthDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+
+            @if (User.IsInRole("Admin"))
+            {
+                <td>
+                    @Html.ActionLink("Add", "AddStudent", new { id = item.Id })
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditStudent", new { id = item.Id })
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "DeleteStudent", new { id = item.Id })
+                </td>
+            }
+        </tr>
+    }
+</table>

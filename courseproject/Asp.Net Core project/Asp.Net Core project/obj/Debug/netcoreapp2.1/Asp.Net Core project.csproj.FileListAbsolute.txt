@@ -1,0 +1,35 @@
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\bin\Debug\netcoreapp2.1\Asp.Net Core project.deps.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\bin\Debug\netcoreapp2.1\Asp.Net Core project.runtimeconfig.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\bin\Debug\netcoreapp2.1\Asp.Net Core project.runtimeconfig.dev.json
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\bin\Debug\netcoreapp2.1\Asp.Net Core project.dll
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\bin\Debug\netcoreapp2.1\Asp.Net Core project.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\bin\Debug\netcoreapp2.1\Asp.Net Core project.Views.dll
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\bin\Debug\netcoreapp2.1\Asp.Net Core project.Views.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.csprojAssemblyReference.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.RazorAssemblyInfo.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.RazorAssemblyInfo.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.AssemblyInfoInputs.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.AssemblyInfo.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.TagHelpers.input.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.TagHelpers.output.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.RazorCoreGenerate.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.RazorTargetAssemblyInfo.cache
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.RazorTargetAssemblyInfo.cs
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.Views.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.dll
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.pdb
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Asp.Net Core project.csproj.CopyComplete
+C:\Users\paste\OneDrive\Рабочий стол\Practiciiiing c#\courseproject\Asp.Net Core project\Asp.Net Core project\obj\Debug\netcoreapp2.1\Razor\Views\Home\GetStudents.cshtml.g.cs

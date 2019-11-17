@@ -1,0 +1,32 @@
+﻿@model Asp.Net_Core_project.Models.Student
+
+@{
+    ViewData["Title"] = "GetStudents";
+}
+
+<h2>GetStudents</h2>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>BirthDate</th>
+        <th>Email</th>
+        <th>Id</th>
+    </tr>
+
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => modelItem.Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => modelItem.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => modelItem.BirthDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => modelItem.Email)
+        </td>
+    </tr>
+
+</table>

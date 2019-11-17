@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Asp.Net_Core_project.Models.Lecturer>
+
+@{
+    ViewData["Title"] = "GetLecturers";
+}
+
+<h2>GetLecturers</h2>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>BirthDate</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirthDate)
+            </td>
+
+            @if (User.IsInRole("Admin"))
+            {
+                <td>
+                    @Html.ActionLink("Add", "AddLecturer", new { id = item.Id })
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditLecturer", new { id = item.Id })
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "DeleteLecturer", new { id = item.Id })
+                </td>
+            }
+        </tr>
+    }
+</table>
